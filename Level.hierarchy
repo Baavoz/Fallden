@@ -1,0 +1,96 @@
+"Items"
+[
+	{
+		"Type" "SDG.Framework.Landscapes.Landscape, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Tiles"
+			[
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+						{
+							"GUID" "00000000000000000000000000000000"
+						}
+					]
+				}
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1990.825"
+				"Y" "250.31"
+				"Z" "-680.9083"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1039.241"
+				"Y" "54.22911"
+				"Z" "1854.436"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "21.85055"
+				"Y" "15.04304"
+				"Z" "16.09493"
+			}
+		}
+	}
+]
